@@ -33,11 +33,13 @@ public class Jurnal2 {
                 System.out.print(" ");
             }
             for(int j=l;j>=1;j--)
-            {
-                System.out.print("+");
-            }
+            
             l-=2;
             System.out.println("");
+            
+            
+            
+            bbbbbbbbbbbbbb
         }
     }
     
