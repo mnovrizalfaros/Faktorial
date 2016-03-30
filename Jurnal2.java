@@ -19,7 +19,7 @@ public class Jurnal2 {
             }
             for(int j=1;j<=l;j++)
             {
-                System.out.print("+");
+                System.out.print("*");
             }
             l+=2;
             System.out.println("");
@@ -34,7 +34,7 @@ public class Jurnal2 {
             }
             for(int j=l;j>=1;j--)
             {
-                System.out.print("+");
+                System.out.print("*");
             }
             l-=2;
             System.out.println("");
