@@ -37,9 +37,6 @@ public class Jurnal2 {
             l-=2;
             System.out.println("");
             
-            
-            
-            bbbbbbbbbbbbbb
         }
     }
     
